@@ -1,22 +1,22 @@
 {
   "checksum": {
-    "previous": "408774e70fab3d223bab48c5962f6ee86fa1ac404faaf7de444ab9151403bba3",
-    "current": "408774e70fab3d223bab48c5962f6ee86fa1ac404faaf7de444ab9151403bba3"
+    "previous": "e5ff67efe08184f67b7e335dae7d1d0bd5c0cab27a92bd231fad660cfe1f85bb",
+    "current": "e5ff67efe08184f67b7e335dae7d1d0bd5c0cab27a92bd231fad660cfe1f85bb"
   },
   "fonts": [
-    "./fonts/font-firebrand_408774e70fab3d223bab48c5962f6ee8.ttf",
-    "./fonts/font-firebrand_408774e70fab3d223bab48c5962f6ee8.svg",
-    "./fonts/font-firebrand_408774e70fab3d223bab48c5962f6ee8.woff",
-    "./fonts/font-firebrand_408774e70fab3d223bab48c5962f6ee8.eot"
+    "./fonts/font-firebrand_e5ff67efe08184f67b7e335dae7d1d0b.ttf",
+    "./fonts/font-firebrand_e5ff67efe08184f67b7e335dae7d1d0b.svg",
+    "./fonts/font-firebrand_e5ff67efe08184f67b7e335dae7d1d0b.woff",
+    "./fonts/font-firebrand_e5ff67efe08184f67b7e335dae7d1d0b.eot"
   ],
   "glyphs": {
     "flightdeck": {
       "codepoint": 61696,
       "source": "./vectors/flightdeck.svg"
     },
-    "pencil_icon": {
-      "codepoint": 61700,
-      "source": "./vectors/pencil_icon.svg"
+    "pencil-square-o": {
+      "codepoint": 61701,
+      "source": "./vectors/pencil-square-o.svg"
     },
     "thumbsdown": {
       "codepoint": 61697,
