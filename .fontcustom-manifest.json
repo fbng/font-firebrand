@@ -1,18 +1,22 @@
 {
   "checksum": {
-    "previous": "709c2a4caa3a1c33da9093bec0628eed9fcffe59fe4d503f9494ee09bb3c7447",
-    "current": "709c2a4caa3a1c33da9093bec0628eed9fcffe59fe4d503f9494ee09bb3c7447"
+    "previous": "408774e70fab3d223bab48c5962f6ee86fa1ac404faaf7de444ab9151403bba3",
+    "current": "408774e70fab3d223bab48c5962f6ee86fa1ac404faaf7de444ab9151403bba3"
   },
   "fonts": [
-    "./fonts/font-firebrand_709c2a4caa3a1c33da9093bec0628eed.ttf",
-    "./fonts/font-firebrand_709c2a4caa3a1c33da9093bec0628eed.svg",
-    "./fonts/font-firebrand_709c2a4caa3a1c33da9093bec0628eed.woff",
-    "./fonts/font-firebrand_709c2a4caa3a1c33da9093bec0628eed.eot"
+    "./fonts/font-firebrand_408774e70fab3d223bab48c5962f6ee8.ttf",
+    "./fonts/font-firebrand_408774e70fab3d223bab48c5962f6ee8.svg",
+    "./fonts/font-firebrand_408774e70fab3d223bab48c5962f6ee8.woff",
+    "./fonts/font-firebrand_408774e70fab3d223bab48c5962f6ee8.eot"
   ],
   "glyphs": {
     "flightdeck": {
       "codepoint": 61696,
       "source": "./vectors/flightdeck.svg"
+    },
+    "pencil_icon": {
+      "codepoint": 61700,
+      "source": "./vectors/pencil_icon.svg"
     },
     "thumbsdown": {
       "codepoint": 61697,
@@ -32,6 +36,10 @@
     "config": "fontcustom.yml",
     "css_selector": ".fb-icon-{{glyph}}",
     "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
     "font_name": "font-firebrand",
     "force": false,
     "input": {
