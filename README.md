@@ -2,6 +2,10 @@
 
 Font Firebrand is a set of vector icons similar to the Font Awesome icon set.  These are icons specifically designed for use in Firebrand applications.
 
+## Requirements
+
+See <http://fontcustom.com/#installation>.
+
 ## Project Setup
 
 To add an icon to the set:
