@@ -4,11 +4,11 @@
 
 @font-face {
   font-family: "font-firebrand";
-  src: url("../fonts/font-firebrand_e5ff67efe08184f67b7e335dae7d1d0b.eot");
-  src: url("../fonts/font-firebrand_e5ff67efe08184f67b7e335dae7d1d0b.eot?#iefix") format("embedded-opentype"),
-       url("../fonts/font-firebrand_e5ff67efe08184f67b7e335dae7d1d0b.woff") format("woff"),
-       url("../fonts/font-firebrand_e5ff67efe08184f67b7e335dae7d1d0b.ttf") format("truetype"),
-       url("../fonts/font-firebrand_e5ff67efe08184f67b7e335dae7d1d0b.svg#font-firebrand") format("svg");
+  src: url("../fonts/font-firebrand_d18d7523e211f7f52fdc628fb8c8572b.eot");
+  src: url("../fonts/font-firebrand_d18d7523e211f7f52fdc628fb8c8572b.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/font-firebrand_d18d7523e211f7f52fdc628fb8c8572b.woff") format("woff"),
+       url("../fonts/font-firebrand_d18d7523e211f7f52fdc628fb8c8572b.ttf") format("truetype"),
+       url("../fonts/font-firebrand_d18d7523e211f7f52fdc628fb8c8572b.svg#font-firebrand") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -16,17 +16,28 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "font-firebrand";
-    src: url("../fonts/font-firebrand_e5ff67efe08184f67b7e335dae7d1d0b.svg#font-firebrand") format("svg");
+    src: url("../fonts/font-firebrand_d18d7523e211f7f52fdc628fb8c8572b.svg#font-firebrand") format("svg");
   }
 }
 
 [data-icon]:before { content: attr(data-icon); }
 
 [data-icon]:before,
+.fb-icon-clock:before,
+.fb-icon-download:before,
+.fb-icon-email:before,
+.fb-icon-facebook:before,
+.fb-icon-facebook-circle:before,
 .fb-icon-flightdeck:before,
 .fb-icon-pencil-square-o:before,
+.fb-icon-pinterest:before,
+.fb-icon-pinterest-circle:before,
 .fb-icon-thumbsdown:before,
 .fb-icon-thumbsup:before,
+.fb-icon-tumblr:before,
+.fb-icon-tumblr-circle:before,
+.fb-icon-twitter:before,
+.fb-icon-twitter-circle:before,
 .fb-icon-wishbone:before {
   display: inline-block;
   font-family: "font-firebrand";
@@ -42,8 +53,19 @@
   font-smoothing: antialiased;
 }
 
+.fb-icon-clock:before { content: "\f106"; }
+.fb-icon-download:before { content: "\f107"; }
+.fb-icon-email:before { content: "\f108"; }
+.fb-icon-facebook:before { content: "\f109"; }
+.fb-icon-facebook-circle:before { content: "\f10a"; }
 .fb-icon-flightdeck:before { content: "\f100"; }
 .fb-icon-pencil-square-o:before { content: "\f105"; }
+.fb-icon-pinterest:before { content: "\f10b"; }
+.fb-icon-pinterest-circle:before { content: "\f10c"; }
 .fb-icon-thumbsdown:before { content: "\f101"; }
 .fb-icon-thumbsup:before { content: "\f102"; }
+.fb-icon-tumblr:before { content: "\f10d"; }
+.fb-icon-tumblr-circle:before { content: "\f10e"; }
+.fb-icon-twitter:before { content: "\f10f"; }
+.fb-icon-twitter-circle:before { content: "\f110"; }
 .fb-icon-wishbone:before { content: "\f103"; }

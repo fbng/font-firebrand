@@ -1,15 +1,35 @@
 {
   "checksum": {
-    "previous": "e5ff67efe08184f67b7e335dae7d1d0bd5c0cab27a92bd231fad660cfe1f85bb",
-    "current": "e5ff67efe08184f67b7e335dae7d1d0bd5c0cab27a92bd231fad660cfe1f85bb"
+    "previous": "d18d7523e211f7f52fdc628fb8c8572b8fdad3f9d6132309273fa3eb5261b5f7",
+    "current": "d18d7523e211f7f52fdc628fb8c8572b8fdad3f9d6132309273fa3eb5261b5f7"
   },
   "fonts": [
-    "./fonts/font-firebrand_e5ff67efe08184f67b7e335dae7d1d0b.ttf",
-    "./fonts/font-firebrand_e5ff67efe08184f67b7e335dae7d1d0b.svg",
-    "./fonts/font-firebrand_e5ff67efe08184f67b7e335dae7d1d0b.woff",
-    "./fonts/font-firebrand_e5ff67efe08184f67b7e335dae7d1d0b.eot"
+    "./fonts/font-firebrand_d18d7523e211f7f52fdc628fb8c8572b.ttf",
+    "./fonts/font-firebrand_d18d7523e211f7f52fdc628fb8c8572b.svg",
+    "./fonts/font-firebrand_d18d7523e211f7f52fdc628fb8c8572b.woff",
+    "./fonts/font-firebrand_d18d7523e211f7f52fdc628fb8c8572b.eot"
   ],
   "glyphs": {
+    "clock": {
+      "codepoint": 61702,
+      "source": "./vectors/clock.svg"
+    },
+    "download": {
+      "codepoint": 61703,
+      "source": "./vectors/download.svg"
+    },
+    "email": {
+      "codepoint": 61704,
+      "source": "./vectors/email.svg"
+    },
+    "facebook": {
+      "codepoint": 61705,
+      "source": "./vectors/facebook.svg"
+    },
+    "facebook-circle": {
+      "codepoint": 61706,
+      "source": "./vectors/facebook-circle.svg"
+    },
     "flightdeck": {
       "codepoint": 61696,
       "source": "./vectors/flightdeck.svg"
@@ -18,6 +38,14 @@
       "codepoint": 61701,
       "source": "./vectors/pencil-square-o.svg"
     },
+    "pinterest": {
+      "codepoint": 61707,
+      "source": "./vectors/pinterest.svg"
+    },
+    "pinterest-circle": {
+      "codepoint": 61708,
+      "source": "./vectors/pinterest-circle.svg"
+    },
     "thumbsdown": {
       "codepoint": 61697,
       "source": "./vectors/thumbsdown.svg"
@@ -25,6 +53,22 @@
     "thumbsup": {
       "codepoint": 61698,
       "source": "./vectors/thumbsup.svg"
+    },
+    "tumblr": {
+      "codepoint": 61709,
+      "source": "./vectors/tumblr.svg"
+    },
+    "tumblr-circle": {
+      "codepoint": 61710,
+      "source": "./vectors/tumblr-circle.svg"
+    },
+    "twitter": {
+      "codepoint": 61711,
+      "source": "./vectors/twitter.svg"
+    },
+    "twitter-circle": {
+      "codepoint": 61712,
+      "source": "./vectors/twitter-circle.svg"
     },
     "wishbone": {
       "codepoint": 61699,
