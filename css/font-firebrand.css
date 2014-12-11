@@ -4,11 +4,11 @@
 
 @font-face {
   font-family: "font-firebrand";
-  src: url("../fonts/font-firebrand_d18d7523e211f7f52fdc628fb8c8572b.eot");
-  src: url("../fonts/font-firebrand_d18d7523e211f7f52fdc628fb8c8572b.eot?#iefix") format("embedded-opentype"),
-       url("../fonts/font-firebrand_d18d7523e211f7f52fdc628fb8c8572b.woff") format("woff"),
-       url("../fonts/font-firebrand_d18d7523e211f7f52fdc628fb8c8572b.ttf") format("truetype"),
-       url("../fonts/font-firebrand_d18d7523e211f7f52fdc628fb8c8572b.svg#font-firebrand") format("svg");
+  src: url("../fonts/font-firebrand_dba2da555c8cd2fd09294018ba085568.eot");
+  src: url("../fonts/font-firebrand_dba2da555c8cd2fd09294018ba085568.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/font-firebrand_dba2da555c8cd2fd09294018ba085568.woff") format("woff"),
+       url("../fonts/font-firebrand_dba2da555c8cd2fd09294018ba085568.ttf") format("truetype"),
+       url("../fonts/font-firebrand_dba2da555c8cd2fd09294018ba085568.svg#font-firebrand") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -16,13 +16,17 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "font-firebrand";
-    src: url("../fonts/font-firebrand_d18d7523e211f7f52fdc628fb8c8572b.svg#font-firebrand") format("svg");
+    src: url("../fonts/font-firebrand_dba2da555c8cd2fd09294018ba085568.svg#font-firebrand") format("svg");
   }
 }
 
 [data-icon]:before { content: attr(data-icon); }
 
 [data-icon]:before,
+.fb-icon-arrow-back-down:before,
+.fb-icon-arrow-back-left:before,
+.fb-icon-arrow-back-right:before,
+.fb-icon-arrow-back-up:before,
 .fb-icon-clock:before,
 .fb-icon-download:before,
 .fb-icon-email:before,
@@ -53,6 +57,10 @@
   font-smoothing: antialiased;
 }
 
+.fb-icon-arrow-back-down:before { content: "\f112"; }
+.fb-icon-arrow-back-left:before { content: "\f113"; }
+.fb-icon-arrow-back-right:before { content: "\f114"; }
+.fb-icon-arrow-back-up:before { content: "\f115"; }
 .fb-icon-clock:before { content: "\f106"; }
 .fb-icon-download:before { content: "\f107"; }
 .fb-icon-email:before { content: "\f108"; }

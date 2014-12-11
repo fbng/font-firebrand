@@ -1,15 +1,31 @@
 {
   "checksum": {
-    "previous": "d18d7523e211f7f52fdc628fb8c8572b8fdad3f9d6132309273fa3eb5261b5f7",
-    "current": "d18d7523e211f7f52fdc628fb8c8572b8fdad3f9d6132309273fa3eb5261b5f7"
+    "previous": "dba2da555c8cd2fd09294018ba08556825df5b8f207fecefa26a0234a4540a61",
+    "current": "dba2da555c8cd2fd09294018ba08556825df5b8f207fecefa26a0234a4540a61"
   },
   "fonts": [
-    "./fonts/font-firebrand_d18d7523e211f7f52fdc628fb8c8572b.ttf",
-    "./fonts/font-firebrand_d18d7523e211f7f52fdc628fb8c8572b.svg",
-    "./fonts/font-firebrand_d18d7523e211f7f52fdc628fb8c8572b.woff",
-    "./fonts/font-firebrand_d18d7523e211f7f52fdc628fb8c8572b.eot"
+    "./fonts/font-firebrand_dba2da555c8cd2fd09294018ba085568.ttf",
+    "./fonts/font-firebrand_dba2da555c8cd2fd09294018ba085568.svg",
+    "./fonts/font-firebrand_dba2da555c8cd2fd09294018ba085568.woff",
+    "./fonts/font-firebrand_dba2da555c8cd2fd09294018ba085568.eot"
   ],
   "glyphs": {
+    "arrow-back-down": {
+      "codepoint": 61714,
+      "source": "./vectors/arrow-back-down.svg"
+    },
+    "arrow-back-left": {
+      "codepoint": 61715,
+      "source": "./vectors/arrow-back-left.svg"
+    },
+    "arrow-back-right": {
+      "codepoint": 61716,
+      "source": "./vectors/arrow-back-right.svg"
+    },
+    "arrow-back-up": {
+      "codepoint": 61717,
+      "source": "./vectors/arrow-back-up.svg"
+    },
     "clock": {
       "codepoint": 61702,
       "source": "./vectors/clock.svg"
