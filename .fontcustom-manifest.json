@@ -1,15 +1,19 @@
 {
   "checksum": {
-    "previous": "dba2da555c8cd2fd09294018ba08556825df5b8f207fecefa26a0234a4540a61",
-    "current": "dba2da555c8cd2fd09294018ba08556825df5b8f207fecefa26a0234a4540a61"
+    "previous": "b7298b31337f4e3c7149f3b93a8f522e618370846c7447fc20565720769eb4a0",
+    "current": "b7298b31337f4e3c7149f3b93a8f522e618370846c7447fc20565720769eb4a0"
   },
   "fonts": [
-    "./fonts/font-firebrand_dba2da555c8cd2fd09294018ba085568.ttf",
-    "./fonts/font-firebrand_dba2da555c8cd2fd09294018ba085568.svg",
-    "./fonts/font-firebrand_dba2da555c8cd2fd09294018ba085568.woff",
-    "./fonts/font-firebrand_dba2da555c8cd2fd09294018ba085568.eot"
+    "./fonts/font-firebrand_b7298b31337f4e3c7149f3b93a8f522e.ttf",
+    "./fonts/font-firebrand_b7298b31337f4e3c7149f3b93a8f522e.svg",
+    "./fonts/font-firebrand_b7298b31337f4e3c7149f3b93a8f522e.woff",
+    "./fonts/font-firebrand_b7298b31337f4e3c7149f3b93a8f522e.eot"
   ],
   "glyphs": {
+    "approve": {
+      "codepoint": 61718,
+      "source": "./vectors/approve.svg"
+    },
     "arrow-back-down": {
       "codepoint": 61714,
       "source": "./vectors/arrow-back-down.svg"
@@ -29,6 +33,10 @@
     "clock": {
       "codepoint": 61702,
       "source": "./vectors/clock.svg"
+    },
+    "decline": {
+      "codepoint": 61719,
+      "source": "./vectors/decline.svg"
     },
     "download": {
       "codepoint": 61703,
