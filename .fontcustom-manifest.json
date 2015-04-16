@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "8888078f6f300ca658235ed57b3082b69e2d9e2a7c0dfbada225ce47d18989b9",
-    "current": "8888078f6f300ca658235ed57b3082b69e2d9e2a7c0dfbada225ce47d18989b9"
+    "previous": "8b0b8e3a03425b28d1e4c0353b2943e4e96b761dbb473227dba4d2f9bdd155c2",
+    "current": "8b0b8e3a03425b28d1e4c0353b2943e4e96b761dbb473227dba4d2f9bdd155c2"
   },
   "fonts": [
-    "./fonts/font-firebrand_8888078f6f300ca658235ed57b3082b6.ttf",
-    "./fonts/font-firebrand_8888078f6f300ca658235ed57b3082b6.svg",
-    "./fonts/font-firebrand_8888078f6f300ca658235ed57b3082b6.woff",
-    "./fonts/font-firebrand_8888078f6f300ca658235ed57b3082b6.eot"
+    "./fonts/font-firebrand_8b0b8e3a03425b28d1e4c0353b2943e4.ttf",
+    "./fonts/font-firebrand_8b0b8e3a03425b28d1e4c0353b2943e4.svg",
+    "./fonts/font-firebrand_8b0b8e3a03425b28d1e4c0353b2943e4.woff",
+    "./fonts/font-firebrand_8b0b8e3a03425b28d1e4c0353b2943e4.eot"
   ],
   "glyphs": {
     "approve": {
@@ -73,6 +73,10 @@
     "pinterest-circle": {
       "codepoint": 61708,
       "source": "./vectors/pinterest-circle.svg"
+    },
+    "region_icon": {
+      "codepoint": 61721,
+      "source": "./vectors/region_icon.svg"
     },
     "thumbsdown": {
       "codepoint": 61697,
