@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "8b0b8e3a03425b28d1e4c0353b2943e4e96b761dbb473227dba4d2f9bdd155c2",
-    "current": "8b0b8e3a03425b28d1e4c0353b2943e4e96b761dbb473227dba4d2f9bdd155c2"
+    "previous": "6b03c43e4bdccc58c0f340e87b6291bfcf3a0b4e5ba52cb5cebad6cd18df4ae7",
+    "current": "6b03c43e4bdccc58c0f340e87b6291bfcf3a0b4e5ba52cb5cebad6cd18df4ae7"
   },
   "fonts": [
-    "./fonts/font-firebrand_8b0b8e3a03425b28d1e4c0353b2943e4.ttf",
-    "./fonts/font-firebrand_8b0b8e3a03425b28d1e4c0353b2943e4.svg",
-    "./fonts/font-firebrand_8b0b8e3a03425b28d1e4c0353b2943e4.woff",
-    "./fonts/font-firebrand_8b0b8e3a03425b28d1e4c0353b2943e4.eot"
+    "./fonts/font-firebrand_6b03c43e4bdccc58c0f340e87b6291bf.ttf",
+    "./fonts/font-firebrand_6b03c43e4bdccc58c0f340e87b6291bf.svg",
+    "./fonts/font-firebrand_6b03c43e4bdccc58c0f340e87b6291bf.woff",
+    "./fonts/font-firebrand_6b03c43e4bdccc58c0f340e87b6291bf.eot"
   ],
   "glyphs": {
     "approve": {
@@ -77,6 +77,10 @@
     "region_icon": {
       "codepoint": 61721,
       "source": "./vectors/region_icon.svg"
+    },
+    "tablet": {
+      "codepoint": 61722,
+      "source": "./vectors/tablet.svg"
     },
     "thumbsdown": {
       "codepoint": 61697,
