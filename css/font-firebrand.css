@@ -4,11 +4,11 @@
 
 @font-face {
   font-family: "font-firebrand";
-  src: url("../fonts/font-firebrand_6b03c43e4bdccc58c0f340e87b6291bf.eot");
-  src: url("../fonts/font-firebrand_6b03c43e4bdccc58c0f340e87b6291bf.eot?#iefix") format("embedded-opentype"),
-       url("../fonts/font-firebrand_6b03c43e4bdccc58c0f340e87b6291bf.woff") format("woff"),
-       url("../fonts/font-firebrand_6b03c43e4bdccc58c0f340e87b6291bf.ttf") format("truetype"),
-       url("../fonts/font-firebrand_6b03c43e4bdccc58c0f340e87b6291bf.svg#font-firebrand") format("svg");
+  src: url("../fonts/font-firebrand_4872b46a6982b9d6dcc947e030003374.eot");
+  src: url("../fonts/font-firebrand_4872b46a6982b9d6dcc947e030003374.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/font-firebrand_4872b46a6982b9d6dcc947e030003374.woff") format("woff"),
+       url("../fonts/font-firebrand_4872b46a6982b9d6dcc947e030003374.ttf") format("truetype"),
+       url("../fonts/font-firebrand_4872b46a6982b9d6dcc947e030003374.svg#font-firebrand") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -16,7 +16,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "font-firebrand";
-    src: url("../fonts/font-firebrand_6b03c43e4bdccc58c0f340e87b6291bf.svg#font-firebrand") format("svg");
+    src: url("../fonts/font-firebrand_4872b46a6982b9d6dcc947e030003374.svg#font-firebrand") format("svg");
   }
 }
 
@@ -47,6 +47,7 @@
 .fb-icon-tumblr-circle:before,
 .fb-icon-twitter:before,
 .fb-icon-twitter-circle:before,
+.fb-icon-user-plus:before,
 .fb-icon-wishbone:before {
   display: inline-block;
   font-family: "font-firebrand";
@@ -86,4 +87,5 @@
 .fb-icon-tumblr-circle:before { content: "\f10e"; }
 .fb-icon-twitter:before { content: "\f10f"; }
 .fb-icon-twitter-circle:before { content: "\f110"; }
+.fb-icon-user-plus:before { content: "\f11b"; }
 .fb-icon-wishbone:before { content: "\f103"; }
