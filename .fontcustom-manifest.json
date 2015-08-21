@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "4872b46a6982b9d6dcc947e03000337452d8a5637b06c9cca7ef08e25890429e",
-    "current": "4872b46a6982b9d6dcc947e03000337452d8a5637b06c9cca7ef08e25890429e"
+    "previous": "85526b89c5cab26a35c932b1ed3bac793ad6cd2ece8de3d91a5f5051740512be",
+    "current": "85526b89c5cab26a35c932b1ed3bac793ad6cd2ece8de3d91a5f5051740512be"
   },
   "fonts": [
-    "./fonts/font-firebrand_4872b46a6982b9d6dcc947e030003374.ttf",
-    "./fonts/font-firebrand_4872b46a6982b9d6dcc947e030003374.svg",
-    "./fonts/font-firebrand_4872b46a6982b9d6dcc947e030003374.woff",
-    "./fonts/font-firebrand_4872b46a6982b9d6dcc947e030003374.eot"
+    "./fonts/font-firebrand.ttf",
+    "./fonts/font-firebrand.svg",
+    "./fonts/font-firebrand.woff",
+    "./fonts/font-firebrand.eot"
   ],
   "glyphs": {
     "approve": {
@@ -130,7 +130,7 @@
       "templates": "./vectors",
       "vectors": "./vectors"
     },
-    "no_hash": false,
+    "no_hash": true,
     "output": {
       "css": "./css",
       "fonts": "./fonts",

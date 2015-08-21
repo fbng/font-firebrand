@@ -4,11 +4,11 @@
 
 @font-face {
   font-family: "font-firebrand";
-  src: url("../fonts/font-firebrand_4872b46a6982b9d6dcc947e030003374.eot");
-  src: url("../fonts/font-firebrand_4872b46a6982b9d6dcc947e030003374.eot?#iefix") format("embedded-opentype"),
-       url("../fonts/font-firebrand_4872b46a6982b9d6dcc947e030003374.woff") format("woff"),
-       url("../fonts/font-firebrand_4872b46a6982b9d6dcc947e030003374.ttf") format("truetype"),
-       url("../fonts/font-firebrand_4872b46a6982b9d6dcc947e030003374.svg#font-firebrand") format("svg");
+  src: url("../fonts/font-firebrand.eot");
+  src: url("../fonts/font-firebrand.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/font-firebrand.woff") format("woff"),
+       url("../fonts/font-firebrand.ttf") format("truetype"),
+       url("../fonts/font-firebrand.svg#font-firebrand") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -16,7 +16,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "font-firebrand";
-    src: url("../fonts/font-firebrand_4872b46a6982b9d6dcc947e030003374.svg#font-firebrand") format("svg");
+    src: url("../fonts/font-firebrand.svg#font-firebrand") format("svg");
   }
 }
 
