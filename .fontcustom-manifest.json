@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "85526b89c5cab26a35c932b1ed3bac793ad6cd2ece8de3d91a5f5051740512be",
-    "current": "85526b89c5cab26a35c932b1ed3bac793ad6cd2ece8de3d91a5f5051740512be"
+    "previous": "f668b678b4fb2c9af0f96bd50439a4053ed1d0ffd9615077a7f4f8fca22be6c5",
+    "current": "f668b678b4fb2c9af0f96bd50439a4053ed1d0ffd9615077a7f4f8fca22be6c5"
   },
   "fonts": [
     "./fonts/font-firebrand.ttf",
@@ -54,6 +54,18 @@
       "codepoint": 61706,
       "source": "./vectors/facebook-circle.svg"
     },
+    "fingerprint": {
+      "codepoint": 61726,
+      "source": "./vectors/fingerprint.svg"
+    },
+    "fingerprint-book": {
+      "codepoint": 61727,
+      "source": "./vectors/fingerprint-book.svg"
+    },
+    "fingerprint-download-circle": {
+      "codepoint": 61728,
+      "source": "./vectors/fingerprint-download-circle.svg"
+    },
     "flightdeck": {
       "codepoint": 61696,
       "source": "./vectors/flightdeck.svg"
@@ -73,6 +85,14 @@
     "pinterest-circle": {
       "codepoint": 61708,
       "source": "./vectors/pinterest-circle.svg"
+    },
+    "protected": {
+      "codepoint": 61729,
+      "source": "./vectors/protected.svg"
+    },
+    "protected-download-circle": {
+      "codepoint": 61730,
+      "source": "./vectors/protected-download-circle.svg"
     },
     "region_icon": {
       "codepoint": 61721,
@@ -113,6 +133,10 @@
     "wishbone": {
       "codepoint": 61699,
       "source": "./vectors/wishbone.svg"
+    },
+    "wishbone-circle": {
+      "codepoint": 61724,
+      "source": "./vectors/wishbone-circle.svg"
     }
   },
   "options": {
