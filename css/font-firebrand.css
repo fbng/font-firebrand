@@ -52,6 +52,7 @@
 .fb-icon-tumblr-circle:before,
 .fb-icon-twitter:before,
 .fb-icon-twitter-circle:before,
+.fb-icon-user-admin:before,
 .fb-icon-user-plus:before,
 .fb-icon-wishbone:before,
 .fb-icon-wishbone-circle:before {
@@ -98,6 +99,7 @@
 .fb-icon-tumblr-circle:before { content: "\f10e"; }
 .fb-icon-twitter:before { content: "\f10f"; }
 .fb-icon-twitter-circle:before { content: "\f110"; }
+.fb-icon-user-admin:before { content: "\f123"; }
 .fb-icon-user-plus:before { content: "\f11b"; }
 .fb-icon-wishbone:before { content: "\f103"; }
 .fb-icon-wishbone-circle:before { content: "\f11c"; }

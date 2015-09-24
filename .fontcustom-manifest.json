@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "f668b678b4fb2c9af0f96bd50439a4053ed1d0ffd9615077a7f4f8fca22be6c5",
-    "current": "f668b678b4fb2c9af0f96bd50439a4053ed1d0ffd9615077a7f4f8fca22be6c5"
+    "previous": "81467696d5a26ca8c63c6e3e1422a02b85eac228197f8d6f6f29a62bdb787d67",
+    "current": "81467696d5a26ca8c63c6e3e1422a02b85eac228197f8d6f6f29a62bdb787d67"
   },
   "fonts": [
     "./fonts/font-firebrand.ttf",
@@ -125,6 +125,10 @@
     "twitter-circle": {
       "codepoint": 61712,
       "source": "./vectors/twitter-circle.svg"
+    },
+    "user-admin": {
+      "codepoint": 61731,
+      "source": "./vectors/user-admin.svg"
     },
     "user-plus": {
       "codepoint": 61723,
