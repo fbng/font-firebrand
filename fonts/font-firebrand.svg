@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2015-9-24: Created.
+2015-9-25: Created.
 -->
 <svg xmlns="http://www.w3.org/2000/svg">
 <metadata>
-Created by FontForge 20120731 at Thu Sep 24 12:06:22 2015
+Created by FontForge 20120731 at Fri Sep 25 09:25:05 2015
  By Israel,,,
 Created by Israel,,, with FontForge 2.0 (http://fontforge.sf.net)
 </metadata>
@@ -22,7 +22,7 @@ Created by Israel,,, with FontForge 2.0 (http://fontforge.sf.net)
     bbox="-0.520259 -64 512.5 448.5"
     underline-thickness="25.6"
     underline-position="-51.2"
-    unicode-range="U+F100-F123"
+    unicode-range="U+F100-F124"
   />
     <missing-glyph />
     <glyph glyph-name="uniF120" unicode="&#xf120;" 
@@ -72,6 +72,8 @@ d="M40 448h326c30 -14 39 -37 39 -70c-1 -127 0 -253 0 -380c0 -41 -20 -62 -62 -62h
     <glyph glyph-name="uniF106" unicode="&#xf106;" 
 d="M256 -64c-141 0 -256 115 -256 256s115 256 256 256s256 -115 256 -256s-115 -256 -256 -256zM256 400c-115 0 -208 -93 -208 -208s93 -208 208 -208s208 93 208 208s-93 208 -208 208zM360 168h-48h-32h-24c-13 0 -24 11 -24 24v144c0 13 11 24 24 24s24 -11 24 -24
 v-120h32h48c13 0 24 -11 24 -24s-11 -24 -24 -24z" />
+    <glyph glyph-name="uniF124" unicode="&#xf124;" 
+d="M252 12h8h-240v20h-20v84c0 6 29 16 35 16h177c0 20 21 76 -4 84l-4 -2c-27 5 -64 15 -64 26v101v4c0 12 64 27 116 27v0c52 0 116 -15 116 -27v-4v-101c0 -11 -37 -21 -64 -26l-4 2c-25 -8 -4 -64 -4 -84h177c6 0 35 -10 35 -16v-84h-20v-20h-240z" />
     <glyph glyph-name="uniF110" unicode="&#xf110;" 
 d="M256 448c141 0 256 -115 256 -256s-115 -256 -256 -256s-256 115 -256 256s115 256 256 256zM224 118c-8 8 -11 17 -11 28v40h119c11 0 20 4 28 12s12 17 12 28s-4 20 -12 28s-18 12 -29 12h-118v40c0 11 -4 20 -12 28s-17 12 -28 12s-21 -3 -29 -11s-12 -18 -12 -29
 v-160c0 -33 13 -62 36 -85s51 -35 84 -35h80c11 0 20 4 28 12s12 17 12 28s-4 21 -12 29s-17 11 -28 11h-80c-11 0 -20 4 -28 12z" />

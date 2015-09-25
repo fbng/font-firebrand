@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "81467696d5a26ca8c63c6e3e1422a02b85eac228197f8d6f6f29a62bdb787d67",
-    "current": "81467696d5a26ca8c63c6e3e1422a02b85eac228197f8d6f6f29a62bdb787d67"
+    "previous": "915139e388231d23c4e9341cbb2370678c1d775081d76f8a0541a28adf4dae12",
+    "current": "915139e388231d23c4e9341cbb2370678c1d775081d76f8a0541a28adf4dae12"
   },
   "fonts": [
     "./fonts/font-firebrand.ttf",
@@ -97,6 +97,10 @@
     "region_icon": {
       "codepoint": 61721,
       "source": "./vectors/region_icon.svg"
+    },
+    "stamp": {
+      "codepoint": 61732,
+      "source": "./vectors/stamp.svg"
     },
     "tablet": {
       "codepoint": 61722,

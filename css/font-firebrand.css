@@ -45,6 +45,7 @@
 .fb-icon-protected:before,
 .fb-icon-protected-download-circle:before,
 .fb-icon-region_icon:before,
+.fb-icon-stamp:before,
 .fb-icon-tablet:before,
 .fb-icon-thumbsdown:before,
 .fb-icon-thumbsup:before,
@@ -92,6 +93,7 @@
 .fb-icon-protected:before { content: "\f121"; }
 .fb-icon-protected-download-circle:before { content: "\f122"; }
 .fb-icon-region_icon:before { content: "\f119"; }
+.fb-icon-stamp:before { content: "\f124"; }
 .fb-icon-tablet:before { content: "\f11a"; }
 .fb-icon-thumbsdown:before { content: "\f101"; }
 .fb-icon-thumbsup:before { content: "\f102"; }
