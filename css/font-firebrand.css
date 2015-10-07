@@ -28,6 +28,7 @@
 .fb-icon-arrow-back-left:before,
 .fb-icon-arrow-back-right:before,
 .fb-icon-arrow-back-up:before,
+.fb-icon-bolt-book:before,
 .fb-icon-clock:before,
 .fb-icon-decline:before,
 .fb-icon-download:before,
@@ -76,6 +77,7 @@
 .fb-icon-arrow-back-left:before { content: "\f113"; }
 .fb-icon-arrow-back-right:before { content: "\f114"; }
 .fb-icon-arrow-back-up:before { content: "\f115"; }
+.fb-icon-bolt-book:before { content: "\f125"; }
 .fb-icon-clock:before { content: "\f106"; }
 .fb-icon-decline:before { content: "\f117"; }
 .fb-icon-download:before { content: "\f107"; }
