@@ -40,6 +40,7 @@
 .fb-icon-fingerprint-download-circle:before,
 .fb-icon-flightdeck:before,
 .fb-icon-netgalley:before,
+.fb-icon-open-book:before,
 .fb-icon-pencil-square-o:before,
 .fb-icon-pinterest:before,
 .fb-icon-pinterest-circle:before,
@@ -89,6 +90,7 @@
 .fb-icon-fingerprint-download-circle:before { content: "\f120"; }
 .fb-icon-flightdeck:before { content: "\f100"; }
 .fb-icon-netgalley:before { content: "\f118"; }
+.fb-icon-open-book:before { content: "\f126"; }
 .fb-icon-pencil-square-o:before { content: "\f105"; }
 .fb-icon-pinterest:before { content: "\f10b"; }
 .fb-icon-pinterest-circle:before { content: "\f10c"; }
