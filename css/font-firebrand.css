@@ -35,10 +35,12 @@
 .fb-icon-email:before,
 .fb-icon-facebook:before,
 .fb-icon-facebook-circle:before,
+.fb-icon-filter:before,
 .fb-icon-fingerprint:before,
 .fb-icon-fingerprint-book:before,
 .fb-icon-fingerprint-download-circle:before,
 .fb-icon-flightdeck:before,
+.fb-icon-gear:before,
 .fb-icon-netgalley:before,
 .fb-icon-open-book:before,
 .fb-icon-pencil-square-o:before,
@@ -49,6 +51,7 @@
 .fb-icon-region_icon:before,
 .fb-icon-stamp:before,
 .fb-icon-tablet:before,
+.fb-icon-tachometer:before,
 .fb-icon-thumbsdown:before,
 .fb-icon-thumbsup:before,
 .fb-icon-tumblr:before,
@@ -85,10 +88,12 @@
 .fb-icon-email:before { content: "\f108"; }
 .fb-icon-facebook:before { content: "\f109"; }
 .fb-icon-facebook-circle:before { content: "\f10a"; }
+.fb-icon-filter:before { content: "\f127"; }
 .fb-icon-fingerprint:before { content: "\f11e"; }
 .fb-icon-fingerprint-book:before { content: "\f11f"; }
 .fb-icon-fingerprint-download-circle:before { content: "\f120"; }
 .fb-icon-flightdeck:before { content: "\f100"; }
+.fb-icon-gear:before { content: "\f128"; }
 .fb-icon-netgalley:before { content: "\f118"; }
 .fb-icon-open-book:before { content: "\f126"; }
 .fb-icon-pencil-square-o:before { content: "\f105"; }
@@ -99,6 +104,7 @@
 .fb-icon-region_icon:before { content: "\f119"; }
 .fb-icon-stamp:before { content: "\f124"; }
 .fb-icon-tablet:before { content: "\f11a"; }
+.fb-icon-tachometer:before { content: "\f129"; }
 .fb-icon-thumbsdown:before { content: "\f101"; }
 .fb-icon-thumbsup:before { content: "\f102"; }
 .fb-icon-tumblr:before { content: "\f10d"; }

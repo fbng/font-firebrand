@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "47f4fb69a55a898958dbaefe17187720c85869c69d0ece51e918577f00a31f0b",
-    "current": "47f4fb69a55a898958dbaefe17187720c85869c69d0ece51e918577f00a31f0b"
+    "previous": "226b15f82e48c10e196d25787a127169965f488584359e0e4e999a0ad36a63e0",
+    "current": "226b15f82e48c10e196d25787a127169965f488584359e0e4e999a0ad36a63e0"
   },
   "fonts": [
     "./fonts/font-firebrand.ttf",
@@ -58,6 +58,10 @@
       "codepoint": 61706,
       "source": "./vectors/facebook-circle.svg"
     },
+    "filter": {
+      "codepoint": 61735,
+      "source": "./vectors/filter.svg"
+    },
     "fingerprint": {
       "codepoint": 61726,
       "source": "./vectors/fingerprint.svg"
@@ -73,6 +77,10 @@
     "flightdeck": {
       "codepoint": 61696,
       "source": "./vectors/flightdeck.svg"
+    },
+    "gear": {
+      "codepoint": 61736,
+      "source": "./vectors/gear.svg"
     },
     "netgalley": {
       "codepoint": 61720,
@@ -113,6 +121,10 @@
     "tablet": {
       "codepoint": 61722,
       "source": "./vectors/tablet.svg"
+    },
+    "tachometer": {
+      "codepoint": 61737,
+      "source": "./vectors/tachometer.svg"
     },
     "thumbsdown": {
       "codepoint": 61697,
