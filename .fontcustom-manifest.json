@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "9826179b16f63185fead6716ce9d73bca83da3db792f2295a32e69f505d17ee9",
-    "current": "9826179b16f63185fead6716ce9d73bca83da3db792f2295a32e69f505d17ee9"
+    "previous": "52cca710adcb1b312c3751eb84c63d21e413cf4f881d3eec9b4d5c61307c6ef6",
+    "current": "52cca710adcb1b312c3751eb84c63d21e413cf4f881d3eec9b4d5c61307c6ef6"
   },
   "fonts": [
     "./fonts/font-firebrand.ttf",
@@ -10,6 +10,10 @@
     "./fonts/font-firebrand.eot"
   ],
   "glyphs": {
+    "amazon": {
+      "codepoint": 61738,
+      "source": "./vectors/amazon.svg"
+    },
     "approve": {
       "codepoint": 61718,
       "source": "./vectors/approve.svg"
@@ -29,6 +33,10 @@
     "arrow-back-up": {
       "codepoint": 61717,
       "source": "./vectors/arrow-back-up.svg"
+    },
+    "bn": {
+      "codepoint": 61739,
+      "source": "./vectors/bn.svg"
     },
     "bolt-book": {
       "codepoint": 61733,
@@ -82,9 +90,21 @@
       "codepoint": 61736,
       "source": "./vectors/gear.svg"
     },
+    "indie": {
+      "codepoint": 61740,
+      "source": "./vectors/indie.svg"
+    },
+    "map-pin": {
+      "codepoint": 61741,
+      "source": "./vectors/map-pin.svg"
+    },
     "netgalley": {
       "codepoint": 61720,
       "source": "./vectors/netgalley.svg"
+    },
+    "netgalley-full": {
+      "codepoint": 61742,
+      "source": "./vectors/netgalley-full.svg"
     },
     "open-book": {
       "codepoint": 61734,
