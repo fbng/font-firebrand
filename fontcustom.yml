@@ -29,7 +29,7 @@ input:
 
 output:
   fonts: ./fonts                              # required
-  css: ./css
+  css: ./src
   #preview: app/views/styleguide
   #my-custom-template.yml: path/to/template/output
 
@@ -41,7 +41,8 @@ output:
 #   referenced by their baserame.
 # --------------------------------------------------------------------------- #
 
-#templates:
+templates:
  #- scss
- #- preview
- #- my-custom-template.yml
+ - preview
+ - css
+ - ../templates/font-firebrand.less

@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "52cca710adcb1b312c3751eb84c63d21e413cf4f881d3eec9b4d5c61307c6ef6",
-    "current": "52cca710adcb1b312c3751eb84c63d21e413cf4f881d3eec9b4d5c61307c6ef6"
+    "previous": "6376faf6ed50467e33dd1ac8819b01286201d1346f74b30a5fb1fe2fa4d69e12",
+    "current": "6376faf6ed50467e33dd1ac8819b01286201d1346f74b30a5fb1fe2fa4d69e12"
   },
   "fonts": [
     "./fonts/font-firebrand.ttf",
@@ -204,19 +204,21 @@
     },
     "no_hash": true,
     "output": {
-      "css": "./css",
+      "css": "./src",
       "fonts": "./fonts",
       "preview": "./fonts"
     },
     "preprocessor_path": "",
     "quiet": false,
     "templates": [
+      "preview",
       "css",
-      "preview"
+      "../templates/font-firebrand.less"
     ]
   },
   "templates": [
-    "./css/font-firebrand.css",
-    "./fonts/font-firebrand-preview.html"
+    "./fonts/font-firebrand-preview.html",
+    "./src/font-firebrand.css",
+    "./src/font-firebrand.less"
   ]
 }

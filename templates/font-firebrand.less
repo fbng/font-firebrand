@@ -1,0 +1,15 @@
+//
+// Icon Font: <%= font_name %>
+//
+
+@font-firebrand-path: '../fonts';
+<%= font_face(path: '@{font-firebrand-path}/' + @font_path_alt) %>
+
+[data-icon]:before { content: attr(data-icon); }
+
+[data-icon]:before,
+<%= glyph_selectors %> {
+<%= glyph_properties %>
+}
+
+<%= glyphs %>
