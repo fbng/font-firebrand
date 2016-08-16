@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "260a08cfc59cfc030c2f1889ca50d24588c16b8ded8691e175c25b189bc426ea",
-    "current": "260a08cfc59cfc030c2f1889ca50d24588c16b8ded8691e175c25b189bc426ea"
+    "previous": "ee883d9b4b853b6d06766268b4531c31da26dd0de8ee301d15960a34a9824330",
+    "current": "ee883d9b4b853b6d06766268b4531c31da26dd0de8ee301d15960a34a9824330"
   },
   "fonts": [
     "./fonts/font-firebrand.ttf",
@@ -41,6 +41,10 @@
     "bolt-book": {
       "codepoint": 61733,
       "source": "./vectors/bolt-book.svg"
+    },
+    "camera": {
+      "codepoint": 61744,
+      "source": "./vectors/camera.svg"
     },
     "clock": {
       "codepoint": 61702,
@@ -110,9 +114,17 @@
       "codepoint": 61734,
       "source": "./vectors/open-book.svg"
     },
+    "pencil": {
+      "codepoint": 61745,
+      "source": "./vectors/pencil.svg"
+    },
     "pencil-square-o": {
       "codepoint": 61701,
       "source": "./vectors/pencil-square-o.svg"
+    },
+    "pencil-vertical": {
+      "codepoint": 61746,
+      "source": "./vectors/pencil-vertical.svg"
     },
     "pinterest": {
       "codepoint": 61707,
