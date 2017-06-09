@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2016-8-16: Created.
+2017-6-9: Created.
 -->
 <svg xmlns="http://www.w3.org/2000/svg">
 <metadata>
-Created by FontForge 20120731 at Tue Aug 16 12:21:18 2016
+Created by FontForge 20120731 at Fri Jun  9 16:54:45 2017
  By Israel,,,
 Created by Israel,,, with FontForge 2.0 (http://fontforge.sf.net)
 </metadata>
@@ -22,7 +22,7 @@ Created by Israel,,, with FontForge 2.0 (http://fontforge.sf.net)
     bbox="-0.677003 -64 512.5 448.5"
     underline-thickness="25.6"
     underline-position="-51.2"
-    unicode-range="U+0020-F132"
+    unicode-range="U+0020-F133"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -86,6 +86,9 @@ d="M252 12h8h-240v20h-20v84c0 6 29 16 35 16h177c0 20 21 76 -4 84l-4 -2c-27 5 -64
     <glyph glyph-name="uniF110" unicode="&#xf110;" 
 d="M256 448c141 0 256 -115 256 -256s-115 -256 -256 -256s-256 115 -256 256s115 256 256 256zM224 118c-8 8 -11 17 -11 28v40h119c11 0 20 4 28 12s12 17 12 28s-4 20 -12 28s-18 12 -29 12h-118v40c0 11 -4 20 -12 28s-17 12 -28 12s-21 -3 -29 -11s-12 -18 -12 -29
 v-160c0 -33 13 -62 36 -85s51 -35 84 -35h80c11 0 20 4 28 12s12 17 12 28s-4 21 -12 29s-17 11 -28 11h-80c-11 0 -20 4 -28 12z" />
+    <glyph glyph-name="uniF133" unicode="&#xf133;" 
+d="M503 335l-473 -320c-2 -2 -7 -4 -11 -4c-11 0 -19 8 -19 19c0 6 5 13 9 15l473 320c2 2 7 4 11 4c11 0 19 -8 19 -19c0 -6 -5 -13 -9 -15zM60 250c0 21 17 38 38 38v0h128l130 107v0c6 6 15 8 24 8c19 0 36 -15 38 -34l-358 -243v124zM416 160v-38v-39v-64
+c0 -21 -17 -38 -38 -38c-9 0 -18 2 -24 6v0l-130 94h-23l215 145v-66z" />
     <glyph glyph-name="uniF112" unicode="&#xf112;" 
 d="M178 93h-178v197c0 40 21 75 47 101s66 41 106 41h16v-4h114c-23 -7 -44 -19 -61 -36c-26 -26 -44 -62 -44 -102v-197zM224 392c-23 23 -53 36 -87 40c5 1 8 0 13 0h142c40 0 76 -15 102 -41s43 -61 43 -101v-200h75l-163 -138l-162 138h80v200c0 40 -17 76 -43 102z" />
     <glyph glyph-name="uniF10A" unicode="&#xf10a;" 

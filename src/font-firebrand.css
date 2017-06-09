@@ -46,6 +46,7 @@
 .fb-icon-gear:before,
 .fb-icon-indie:before,
 .fb-icon-map-pin:before,
+.fb-icon-mute:before,
 .fb-icon-netgalley:before,
 .fb-icon-netgalley-full:before,
 .fb-icon-open-book:before,
@@ -108,6 +109,7 @@
 .fb-icon-gear:before { content: "\f128"; }
 .fb-icon-indie:before { content: "\f12c"; }
 .fb-icon-map-pin:before { content: "\f12d"; }
+.fb-icon-mute:before { content: "\f133"; }
 .fb-icon-netgalley:before { content: "\f118"; }
 .fb-icon-netgalley-full:before { content: "\f12e"; }
 .fb-icon-open-book:before { content: "\f126"; }
