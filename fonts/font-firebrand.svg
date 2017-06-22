@@ -5,7 +5,7 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg">
 <metadata>
-Created by FontForge 20120731 at Thu Jun 22 09:43:06 2017
+Created by FontForge 20120731 at Thu Jun 22 11:45:13 2017
  By Israel,,,
 Created by Israel,,, with FontForge 2.0 (http://fontforge.sf.net)
 </metadata>
@@ -22,7 +22,7 @@ Created by Israel,,, with FontForge 2.0 (http://fontforge.sf.net)
     bbox="-0.677003 -64 512.885 448.5"
     underline-thickness="25.6"
     underline-position="-51.2"
-    unicode-range="U+0020-F135"
+    unicode-range="U+0020-F136"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -175,6 +175,9 @@ c-4 -1 -10 -1 -14 -1c-5 1 -9 3 -12 7c-1 1 -2 1 -3 1zM283 227c-1 0 -2 0 -3 -1c-2 
 c-6 -13 -12 -29 -16 -34c-2 -2 -2 -5 0 -7s4 -1 6 0l1 1c5 6 11 20 18 36c5 13 13 28 16 31s16 2 26 2c11 0 21 0 29 2c3 1 5 3 4 6s-3 4 -6 3zM96 187l-2 -2l121 -159l1 1zM336 169c-4 -1 -12 -1 -19 -1c-15 0 -26 -1 -30 -5s-11 -19 -20 -44c-1 -3 -1 -5 -2 -7
 c-1 -3 -1 -5 2 -6c2 -1 4 -1 5 0s2 2 2 3c1 2 2 4 3 7c4 10 13 37 17 40c2 2 15 2 23 2s16 1 21 2c3 1 5 3 4 6s-3 4 -6 3zM319 140c-7 0 -13 -1 -17 -5c-6 -6 -10 -24 -11 -28c-1 -3 1 -5 4 -6c1 0 2 0 3 1s3 2 3 3c2 9 5 20 8 23c3 2 9 2 17 2h9s5 2 5 5s-2 5 -5 5h-9h-7z
 M468 84v0l3 -12l-249 -91zM274 14l194 80l1 12s3 -6 -195 -92z" />
+    <glyph glyph-name="uniF136" unicode="&#xf136;" 
+d="M362 215c4 -69 4 -88 4 -148v-131h-84v512h84s39 -150 48 -182c9 -33 16 -59 20 -81c-3 50 -4 112 -4 163v100h82v-512h-75s-46 158 -55 189c-7 24 -13 52 -20 90v0zM241 81c0 -106 -47 -145 -127 -145h-114v512h115c88 0 112 -54 112 -141c0 -63 -22 -96 -63 -98
+c44 0 77 -45 77 -128v0zM88 177v-181h24c27 0 34 17 34 95c0 57 -7 86 -36 86h-22v211v-147h23c24 0 29 21 29 65c0 60 -7 82 -36 82h-16v-211v0z" />
     <glyph glyph-name="uniF132" unicode="&#xf132;" horiz-adv-x="118" 
 d="M17 431c23 23 61 23 84 0c9 -9 14 -22 16 -34v-33h-117v33c2 12 8 25 17 34zM0 28v310h117l1 -310l-59 -92zM73 297l-29 -1v-234h29v235z" />
     <glyph glyph-name="uniF10B" unicode="&#xf10b;" horiz-adv-x="391" 

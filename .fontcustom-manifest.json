@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "28fd3d99e29d28c71b8a34faa310a2100bc572c10bfb9f4cca2c33a6ed446ab4",
-    "current": "28fd3d99e29d28c71b8a34faa310a2100bc572c10bfb9f4cca2c33a6ed446ab4"
+    "previous": "af5013e1432339cb5b6b2bf446e91f8c1cd97f13a6625529f72864abda2ee91c",
+    "current": "af5013e1432339cb5b6b2bf446e91f8c1cd97f13a6625529f72864abda2ee91c"
   },
   "fonts": [
     "./fonts/font-firebrand.ttf",
@@ -33,6 +33,10 @@
     "arrow-back-up": {
       "codepoint": 61717,
       "source": "./vectors/arrow-back-up.svg"
+    },
+    "barnesandnoble": {
+      "codepoint": 61750,
+      "source": "./vectors/barnesandnoble.svg"
     },
     "bn": {
       "codepoint": 61739,
