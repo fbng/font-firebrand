@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "a06c068f78e0532bb01beea6579ac57544f113bcafe8b286472cbe833cc2d873",
-    "current": "a06c068f78e0532bb01beea6579ac57544f113bcafe8b286472cbe833cc2d873"
+    "previous": "28fd3d99e29d28c71b8a34faa310a2100bc572c10bfb9f4cca2c33a6ed446ab4",
+    "current": "28fd3d99e29d28c71b8a34faa310a2100bc572c10bfb9f4cca2c33a6ed446ab4"
   },
   "fonts": [
     "./fonts/font-firebrand.ttf",
@@ -94,9 +94,17 @@
       "codepoint": 61736,
       "source": "./vectors/gear.svg"
     },
+    "goodreads": {
+      "codepoint": 61748,
+      "source": "./vectors/goodreads.svg"
+    },
     "indie": {
       "codepoint": 61740,
       "source": "./vectors/indie.svg"
+    },
+    "kobo": {
+      "codepoint": 61749,
+      "source": "./vectors/kobo.svg"
     },
     "map-pin": {
       "codepoint": 61741,
