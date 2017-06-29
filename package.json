@@ -1,0 +1,22 @@
+{
+  "name": "Font-Firebrand",
+  "version": "2.5.0",
+  "description": "Font Firebrand is a set of vector icons for use in Firebrand applications.",
+  "style": "src/font-firebrand.css",
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/iisisrael/Font-Firebrand.git"
+  },
+  "keywords": ["Firebrand", "font"],
+  "author": {
+    "name": "Israel J. Carberry",
+    "email": "israel@firebrandtech.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iisisrael/Font-Firebrand/issues"
+  },
+  "homepage": "https://github.com/iisisrael/Font-Firebrand"
+}
