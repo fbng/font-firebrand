@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2017-6-22: Created.
+2017-8-15: Created.
 -->
 <svg xmlns="http://www.w3.org/2000/svg">
 <metadata>
-Created by FontForge 20120731 at Thu Jun 22 11:45:13 2017
+Created by FontForge 20120731 at Tue Aug 15 15:38:01 2017
  By Israel,,,
 Created by Israel,,, with FontForge 2.0 (http://fontforge.sf.net)
 </metadata>
@@ -22,7 +22,7 @@ Created by Israel,,, with FontForge 2.0 (http://fontforge.sf.net)
     bbox="-0.677003 -64 512.885 448.5"
     underline-thickness="25.6"
     underline-position="-51.2"
-    unicode-range="U+0020-F136"
+    unicode-range="U+0020-F137"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -78,6 +78,9 @@ v0l37 -41v179c0 16 13 29 29 29s30 -13 30 -29v-179l37 41v0c5 6 13 10 22 10c16 0 3
 d="M157 60c-1 -2 -4 -2 -4 0c-29 131 -98 203 -153 228c-1 0 1 2 2 2c69 -1 136 -68 155 -108h1c132 234 279 262 315 266c2 0 3 -2 2 -2c-158 -52 -275 -268 -318 -386z" />
     <glyph glyph-name="uniF117" unicode="&#xf117;" 
 d="M500 7c16 -16 16 -43 0 -59c-8 -8 -19 -12 -30 -12s-21 4 -29 12l-185 185l-185 -185c-8 -8 -18 -12 -29 -12s-22 4 -30 12c-16 16 -16 43 0 59l185 185l-185 185c-16 16 -16 43 0 59s43 16 59 0l185 -185l185 185c16 16 43 16 59 0s16 -43 0 -59l-185 -185z" />
+    <glyph glyph-name="uniF137" unicode="&#xf137;" 
+d="M256 448c141 0 256 -115 256 -256s-115 -256 -256 -256s-256 115 -256 256s115 256 256 256zM256 -34c124 0 226 100 226 226s-102 226 -226 226s-226 -102 -226 -226s102 -226 226 -226zM256 393c111 0 201 -90 201 -201s-90 -201 -201 -201s-201 90 -201 201
+s90 201 201 201zM267 87l83 210h-28l-68 -175l-68 175h-28l85 -210h24z" />
     <glyph glyph-name="uniF11A" unicode="&#xf11a;" horiz-adv-x="405" 
 d="M40 448h326c30 -14 39 -37 39 -70c-1 -127 0 -253 0 -380c0 -41 -20 -62 -62 -62h-280c-42 0 -62 20 -62 62c0 126 0 252 -1 378c0 33 9 58 40 72zM361 43v340h-317v-340h317zM234 -10c0 17 -14 31 -31 31s-32 -14 -32 -31c0 -18 14 -33 32 -33c17 0 31 16 31 33z" />
     <glyph glyph-name="uniF106" unicode="&#xf106;" 
