@@ -46,6 +46,7 @@
 .fb-icon-flightdeck:before,
 .fb-icon-gear:before,
 .fb-icon-goodreads:before,
+.fb-icon-goodreads-o:before,
 .fb-icon-indie:before,
 .fb-icon-kobo:before,
 .fb-icon-map-pin:before,
@@ -113,6 +114,7 @@
 .fb-icon-flightdeck:before { content: "\f100"; }
 .fb-icon-gear:before { content: "\f128"; }
 .fb-icon-goodreads:before { content: "\f134"; }
+.fb-icon-goodreads-o:before { content: "\f138"; }
 .fb-icon-indie:before { content: "\f12c"; }
 .fb-icon-kobo:before { content: "\f135"; }
 .fb-icon-map-pin:before { content: "\f12d"; }

@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "69ab5c04d959306f2a638cc8a0ccbeccfcb3091a79764e7b15407090a68ad4e1",
-    "current": "69ab5c04d959306f2a638cc8a0ccbeccfcb3091a79764e7b15407090a68ad4e1"
+    "previous": "0a49615f21c9335f096db59ce3754177e8ee4f2828fcf0dab13503198ded0bfb",
+    "current": "0a49615f21c9335f096db59ce3754177e8ee4f2828fcf0dab13503198ded0bfb"
   },
   "fonts": [
     "./fonts/font-firebrand.ttf",
@@ -101,6 +101,10 @@
     "goodreads": {
       "codepoint": 61748,
       "source": "./vectors/goodreads.svg"
+    },
+    "goodreads-o": {
+      "codepoint": 61752,
+      "source": "./vectors/goodreads-o.svg"
     },
     "indie": {
       "codepoint": 61740,
