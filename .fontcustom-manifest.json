@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "840b1fd4c6ce56c6965790fbbb5f2b293897119bec68911f5ba344f46add027f",
-    "current": "840b1fd4c6ce56c6965790fbbb5f2b293897119bec68911f5ba344f46add027f"
+    "previous": "4f1a3ae09b96efe88e661e1577c414a06c77d9eaebba9b659226bcc2efbf6242",
+    "current": "4f1a3ae09b96efe88e661e1577c414a06c77d9eaebba9b659226bcc2efbf6242"
   },
   "fonts": [
     "./fonts/font-firebrand.ttf",
@@ -74,6 +74,14 @@
       "codepoint": 61706,
       "source": "./vectors/facebook-circle.svg"
     },
+    "facebook-square": {
+      "codepoint": 61755,
+      "source": "./vectors/facebook-square.svg"
+    },
+    "facebook-square-o": {
+      "codepoint": 61756,
+      "source": "./vectors/facebook-square-o.svg"
+    },
     "filter": {
       "codepoint": 61735,
       "source": "./vectors/filter.svg"
@@ -102,9 +110,13 @@
       "codepoint": 61748,
       "source": "./vectors/goodreads.svg"
     },
-    "goodreads-o": {
-      "codepoint": 61752,
-      "source": "./vectors/goodreads-o.svg"
+    "goodreads-square": {
+      "codepoint": 61757,
+      "source": "./vectors/goodreads-square.svg"
+    },
+    "goodreads-square-o": {
+      "codepoint": 61758,
+      "source": "./vectors/goodreads-square-o.svg"
     },
     "indie": {
       "codepoint": 61740,
@@ -113,6 +125,18 @@
     "kobo": {
       "codepoint": 61749,
       "source": "./vectors/kobo.svg"
+    },
+    "linkedin": {
+      "codepoint": 61759,
+      "source": "./vectors/linkedin.svg"
+    },
+    "linkedin-square": {
+      "codepoint": 61760,
+      "source": "./vectors/linkedin-square.svg"
+    },
+    "linkedin-square-o": {
+      "codepoint": 61761,
+      "source": "./vectors/linkedin-square-o.svg"
     },
     "map-pin": {
       "codepoint": 61741,
@@ -198,9 +222,21 @@
       "codepoint": 61711,
       "source": "./vectors/twitter.svg"
     },
-    "twitter-circle": {
-      "codepoint": 61712,
-      "source": "./vectors/twitter-circle.svg"
+    "twitter-alt": {
+      "codepoint": 61762,
+      "source": "./vectors/twitter-alt.svg"
+    },
+    "twitter-alt-circle": {
+      "codepoint": 61763,
+      "source": "./vectors/twitter-alt-circle.svg"
+    },
+    "twitter-square": {
+      "codepoint": 61764,
+      "source": "./vectors/twitter-square.svg"
+    },
+    "twitter-square-o": {
+      "codepoint": 61765,
+      "source": "./vectors/twitter-square-o.svg"
     },
     "user-admin": {
       "codepoint": 61731,
