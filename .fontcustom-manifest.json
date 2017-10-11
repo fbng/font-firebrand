@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "4f1a3ae09b96efe88e661e1577c414a06c77d9eaebba9b659226bcc2efbf6242",
-    "current": "4f1a3ae09b96efe88e661e1577c414a06c77d9eaebba9b659226bcc2efbf6242"
+    "previous": "ab7abbfaba75912565dd297ac883432be8070f76df433266493bc1550d1ea160",
+    "current": "ab7abbfaba75912565dd297ac883432be8070f76df433266493bc1550d1ea160"
   },
   "fonts": [
     "./fonts/font-firebrand.ttf",
@@ -253,6 +253,10 @@
     "verified": {
       "codepoint": 61751,
       "source": "./vectors/verified.svg"
+    },
+    "waterstones": {
+      "codepoint": 61766,
+      "source": "./vectors/waterstones.svg"
     },
     "wave-circle": {
       "codepoint": 61753,
