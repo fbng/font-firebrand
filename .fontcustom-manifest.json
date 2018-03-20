@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "607d6c278ab35a2c4d1806c2be84040e5da71a1cc2896765e56dc93e023d97a0",
-    "current": "607d6c278ab35a2c4d1806c2be84040e5da71a1cc2896765e56dc93e023d97a0"
+    "previous": "6fed05d9ef63c9b9a6d3d7331e49a1e1cccde75549237527e8a460c285149da4",
+    "current": "6fed05d9ef63c9b9a6d3d7331e49a1e1cccde75549237527e8a460c285149da4"
   },
   "fonts": [
     "./fonts/font-firebrand.ttf",
@@ -49,6 +49,14 @@
     "camera": {
       "codepoint": 61744,
       "source": "./vectors/camera.svg"
+    },
+    "cat-down": {
+      "codepoint": 61768,
+      "source": "./vectors/cat-down.svg"
+    },
+    "cat-up": {
+      "codepoint": 61769,
+      "source": "./vectors/cat-up.svg"
     },
     "clock": {
       "codepoint": 61702,
