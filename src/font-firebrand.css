@@ -6,6 +6,7 @@
   font-family: "font-firebrand";
   src: url("../fonts/font-firebrand.eot");
   src: url("../fonts/font-firebrand.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/font-firebrand.woff2") format("woff2"),
        url("../fonts/font-firebrand.woff") format("woff"),
        url("../fonts/font-firebrand.ttf") format("truetype"),
        url("../fonts/font-firebrand.svg#font-firebrand") format("svg");
@@ -37,6 +38,10 @@
 .fb-icon-cat-up:before,
 .fb-icon-clock:before,
 .fb-icon-decline:before,
+.fb-icon-digital:before,
+.fb-icon-digital-circle:before,
+.fb-icon-document:before,
+.fb-icon-document-circle:before,
 .fb-icon-download:before,
 .fb-icon-email:before,
 .fb-icon-facebook:before,
@@ -52,6 +57,8 @@
 .fb-icon-goodreads:before,
 .fb-icon-goodreads-square:before,
 .fb-icon-goodreads-square-o:before,
+.fb-icon-graph:before,
+.fb-icon-graph-circle:before,
 .fb-icon-indie:before,
 .fb-icon-kobo:before,
 .fb-icon-linkedin:before,
@@ -73,6 +80,8 @@
 .fb-icon-stamp:before,
 .fb-icon-tablet:before,
 .fb-icon-tachometer:before,
+.fb-icon-thermometer:before,
+.fb-icon-thermometer-circle:before,
 .fb-icon-thumbsdown:before,
 .fb-icon-thumbsup:before,
 .fb-icon-tumblr:before,
@@ -120,6 +129,10 @@
 .fb-icon-cat-up:before { content: "\f149"; }
 .fb-icon-clock:before { content: "\f106"; }
 .fb-icon-decline:before { content: "\f117"; }
+.fb-icon-digital:before { content: "\f14e"; }
+.fb-icon-digital-circle:before { content: "\f14f"; }
+.fb-icon-document:before { content: "\f14b"; }
+.fb-icon-document-circle:before { content: "\f150"; }
 .fb-icon-download:before { content: "\f107"; }
 .fb-icon-email:before { content: "\f108"; }
 .fb-icon-facebook:before { content: "\f109"; }
@@ -135,6 +148,8 @@
 .fb-icon-goodreads:before { content: "\f134"; }
 .fb-icon-goodreads-square:before { content: "\f13d"; }
 .fb-icon-goodreads-square-o:before { content: "\f13e"; }
+.fb-icon-graph:before { content: "\f14c"; }
+.fb-icon-graph-circle:before { content: "\f151"; }
 .fb-icon-indie:before { content: "\f12c"; }
 .fb-icon-kobo:before { content: "\f135"; }
 .fb-icon-linkedin:before { content: "\f13f"; }
@@ -156,6 +171,8 @@
 .fb-icon-stamp:before { content: "\f124"; }
 .fb-icon-tablet:before { content: "\f11a"; }
 .fb-icon-tachometer:before { content: "\f129"; }
+.fb-icon-thermometer:before { content: "\f152"; }
+.fb-icon-thermometer-circle:before { content: "\f153"; }
 .fb-icon-thumbsdown:before { content: "\f101"; }
 .fb-icon-thumbsup:before { content: "\f102"; }
 .fb-icon-tumblr:before { content: "\f10d"; }

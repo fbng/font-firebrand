@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 35 34.999999"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="digital-circle.svg"
+   width="35"
+   height="35"
+   inkscape:version="0.92.3 (3ce5693, 2018-03-11)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>icon_camera</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="12.513255"
+     inkscape:cx="13.038898"
+     inkscape:cy="9.4300003"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <title
+     id="title2">icon_camera</title>
+  <path
+     style="fill:#000000;stroke:none;stroke-width:1.00220585"
+     d="M 17.5 0 A 17.5 17.5 0 0 0 0 17.5 A 17.5 17.5 0 0 0 17.5 35 A 17.5 17.5 0 0 0 35 17.5 A 17.5 17.5 0 0 0 17.5 0 z M 10.640625 8.0703125 L 14.070312 8.0703125 A 1.81 1.81 0 0 1 15.789062 9.7792969 L 24.359375 9.7792969 L 24.359375 8.0703125 L 26.070312 8.0703125 L 26.070312 9.7792969 L 27.789062 9.7792969 A 1.72 1.72 0 0 1 29.5 11.5 L 29.5 25.210938 A 1.72 1.72 0 0 1 27.789062 26.929688 L 7.2109375 26.929688 A 1.72 1.72 0 0 1 5.5 25.210938 L 5.5 11.5 A 1.72 1.72 0 0 1 7.2109375 9.7792969 L 8.9296875 9.7792969 A 1.8 1.8 0 0 1 10.640625 8.0703125 z M 19.419922 11.962891 A 6.54 6.54 0 0 0 19.347656 11.964844 A 6.54 6.54 0 0 0 19.599609 25.039062 L 19.640625 25.070312 A 6.55 6.55 0 0 0 26.150391 18.5 A 6.54 6.54 0 0 0 19.419922 11.962891 z M 9.5488281 13.070312 A 1.2502578 1.2502578 0 0 0 9.5996094 15.570312 A 1.25 1.25 0 0 0 10.849609 14.320312 A 1.25 1.25 0 0 0 9.5488281 13.070312 z M 19.640625 14.179688 A 4.32 4.32 0 0 1 23.960938 18.5 A 4.32 4.32 0 1 1 19.640625 14.179688 z M 20.189453 16.380859 A 2.55 2.55 0 0 0 17.640625 18.929688 A 2.52 2.52 0 0 0 18.5 20.820312 A 4.11 4.11 0 0 1 22.130859 17.300781 A 2.51 2.51 0 0 0 20.189453 16.380859 z "
+     id="path3741" />
+</svg>

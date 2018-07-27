@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 30 30"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="graph-circle.svg"
+   width="30"
+   height="30"
+   inkscape:version="0.92.3 (3ce5693, 2018-03-11)">
+  <metadata
+     id="metadata22">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>icon_graph</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="15.041667"
+     inkscape:cx="12.864266"
+     inkscape:cy="7.145"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16" />
+  <title
+     id="title2">icon_graph</title>
+  <path
+     style="fill:#000000;stroke:none;stroke-width:1.00277781"
+     d="M 15 0 A 15 15 0 0 0 0 15 A 15 15 0 0 0 15 30 A 15 15 0 0 0 30 15 A 15 15 0 0 0 15 0 z M 26.150391 7.8554688 L 27 9.0253906 L 18.910156 14.875 L 13.060547 11.134766 L 3.6699219 15.955078 L 3 14.675781 L 13.140625 9.4550781 L 18.869141 13.125 L 26.150391 7.8554688 z M 11.289062 14.185547 L 14.179688 14.185547 L 14.179688 22.144531 L 11.289062 22.144531 L 11.289062 14.185547 z M 22.509766 14.185547 L 25.400391 14.185547 L 25.400391 22.144531 L 22.509766 22.144531 L 22.509766 14.185547 z M 5.140625 16.714844 L 8.0292969 16.714844 L 8.0292969 22.144531 L 5.140625 22.144531 L 5.140625 16.714844 z M 17.080078 16.714844 L 19.970703 16.714844 L 19.970703 22.144531 L 17.080078 22.144531 L 17.080078 16.714844 z "
+     id="path43" />
+</svg>
