@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "637b8d9c7d8b6ad0621ffa8e983dc01894ea1f7fe1b22856b059d37489a4136b",
-    "current": "637b8d9c7d8b6ad0621ffa8e983dc01894ea1f7fe1b22856b059d37489a4136b"
+    "previous": "4de09a391af572d58abaec17d92b5125bc05a56cbb2903181076d54e6d0d7520",
+    "current": "4de09a391af572d58abaec17d92b5125bc05a56cbb2903181076d54e6d0d7520"
   },
   "fonts": [
     "./fonts/font-firebrand.ttf",
@@ -155,6 +155,18 @@
       "codepoint": 61740,
       "source": "./vectors/indie.svg"
     },
+    "info": {
+      "codepoint": 61780,
+      "source": "./vectors/info.svg"
+    },
+    "info-circle": {
+      "codepoint": 61782,
+      "source": "./vectors/info-circle.svg"
+    },
+    "info-circle-o": {
+      "codepoint": 61783,
+      "source": "./vectors/info-circle-o.svg"
+    },
     "kobo": {
       "codepoint": 61749,
       "source": "./vectors/kobo.svg"
@@ -218,10 +230,6 @@
     "protected-download-circle": {
       "codepoint": 61730,
       "source": "./vectors/protected-download-circle.svg"
-    },
-    "region_icon": {
-      "codepoint": 61721,
-      "source": "./vectors/region_icon.svg"
     },
     "stamp": {
       "codepoint": 61732,
