@@ -80,6 +80,7 @@
 .fb-icon-protected:before,
 .fb-icon-protected-download-circle:before,
 .fb-icon-stamp:before,
+.fb-icon-stopwatch:before,
 .fb-icon-tablet:before,
 .fb-icon-tachometer:before,
 .fb-icon-thermometer:before,
@@ -173,6 +174,7 @@
 .fb-icon-protected:before { content: "\f121"; }
 .fb-icon-protected-download-circle:before { content: "\f122"; }
 .fb-icon-stamp:before { content: "\f124"; }
+.fb-icon-stopwatch:before { content: "\f158"; }
 .fb-icon-tablet:before { content: "\f11a"; }
 .fb-icon-tachometer:before { content: "\f129"; }
 .fb-icon-thermometer:before { content: "\f152"; }
