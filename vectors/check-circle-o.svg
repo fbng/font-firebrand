@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 55.4 55.4"
+   version="1.1"
+   id="svg61"
+   sodipodi:docname="check-circle-o.svg"
+   inkscape:version="0.92.3 (d244b95, 2018-08-02)">
+  <metadata
+     id="metadata65">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     id="namedview63"
+     showgrid="false"
+     inkscape:zoom="14.981949"
+     inkscape:cx="22.805009"
+     inkscape:cy="27.486217"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg61" />
+  <defs
+     id="defs53">
+    <style
+       id="style51">.cls-1{fill:#231f20;}</style>
+  </defs>
+  <title
+     id="title55">check</title>
+  <path
+     id="rect947"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 45,6.0898438 C 44.795235,6.2611667 44.604521,6.448615 44.429688,6.6503906 L 22.150391,33.839844 14.740234,25.480469 c -1.624671,-1.707001 -4.249609,-1.978689 -6.1894528,-0.640625 -1.8913123,1.214757 -2.2351796,3.838959 -0.7207031,5.5 L 22.439453,46.820312 50.699219,12.289062 Z M 27.699219,0 A 27.700001,27.700001 0 0 0 0,27.699219 27.700001,27.700001 0 0 0 27.699219,55.400391 27.700001,27.700001 0 0 0 55.400391,27.699219 27.700001,27.700001 0 0 0 27.699219,0 Z m 0,2 A 25.700001,25.700001 0 0 1 53.400391,27.699219 25.700001,25.700001 0 0 1 27.699219,53.400391 25.700001,25.700001 0 0 1 2,27.699219 25.700001,25.700001 0 0 1 27.699219,2 Z" />
+</svg>

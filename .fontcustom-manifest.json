@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "7a8bc47e2ae1266bd4a8d3664f6ca25e2cc4ec388cc589acabd230d9c7d3ab93",
-    "current": "7a8bc47e2ae1266bd4a8d3664f6ca25e2cc4ec388cc589acabd230d9c7d3ab93"
+    "previous": "6fcdbf18e368eb7765b63f45fe371ac618dbc9268ea3870c4961c1499075f898",
+    "current": "6fcdbf18e368eb7765b63f45fe371ac618dbc9268ea3870c4961c1499075f898"
   },
   "fonts": [
     "./fonts/font-firebrand.ttf",
@@ -58,6 +58,14 @@
     "cat-up": {
       "codepoint": 61769,
       "source": "./vectors/cat-up.svg"
+    },
+    "check-circle": {
+      "codepoint": 61785,
+      "source": "./vectors/check-circle.svg"
+    },
+    "check-circle-o": {
+      "codepoint": 61786,
+      "source": "./vectors/check-circle-o.svg"
     },
     "clock": {
       "codepoint": 61702,
@@ -222,6 +230,14 @@
     "pinterest-circle": {
       "codepoint": 61708,
       "source": "./vectors/pinterest-circle.svg"
+    },
+    "plus-circle": {
+      "codepoint": 61787,
+      "source": "./vectors/plus-circle.svg"
+    },
+    "plus-circle-o": {
+      "codepoint": 61788,
+      "source": "./vectors/plus-circle-o.svg"
     },
     "protected": {
       "codepoint": 61729,

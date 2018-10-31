@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 55.4 55.4"
+   version="1.1"
+   id="svg61"
+   sodipodi:docname="check-circle.svg"
+   inkscape:version="0.92.3 (d244b95, 2018-08-02)">
+  <metadata
+     id="metadata65">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     id="namedview63"
+     showgrid="false"
+     inkscape:zoom="14.981949"
+     inkscape:cx="27.950654"
+     inkscape:cy="27.486217"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg61" />
+  <defs
+     id="defs53">
+    <style
+       id="style51">.cls-1{fill:#231f20;}</style>
+  </defs>
+  <title
+     id="title55">check</title>
+  <path
+     class="cls-1"
+     d="M 45,6.09 A 27.35,27.35 0 0 0 27.7,0 27.7,27.7 0 1 0 50.7,12.29 L 22.44,46.82 7.83,30.34 a 3.63,3.63 0 0 1 0.72,-5.5 4.79,4.79 0 0 1 6.19,0.64 L 22.15,33.84 44.43,6.65 A 5,5 0 0 1 45,6.09 Z"
+     id="path57"
+     inkscape:connector-curvature="0"
+     style="fill:#231f20" />
+</svg>
