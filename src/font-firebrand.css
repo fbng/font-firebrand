@@ -72,6 +72,7 @@
 .fb-icon-map-pin:before,
 .fb-icon-mute:before,
 .fb-icon-netgalley:before,
+.fb-icon-netgalley-circle:before,
 .fb-icon-netgalley-full:before,
 .fb-icon-open-book:before,
 .fb-icon-pencil:before,
@@ -170,6 +171,7 @@
 .fb-icon-map-pin:before { content: "\f12d"; }
 .fb-icon-mute:before { content: "\f133"; }
 .fb-icon-netgalley:before { content: "\f118"; }
+.fb-icon-netgalley-circle:before { content: "\f15d"; }
 .fb-icon-netgalley-full:before { content: "\f12e"; }
 .fb-icon-open-book:before { content: "\f126"; }
 .fb-icon-pencil:before { content: "\f131"; }

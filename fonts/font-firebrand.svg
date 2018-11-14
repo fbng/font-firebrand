@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2018-10-31: Created with FontForge (http://fontforge.org)
+2018-11-14: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20170924 at Wed Oct 31 11:57:02 2018
+Created by FontForge 20170924 at Wed Nov 14 11:23:55 2018
  By Israel,,,
 
 </metadata>
@@ -22,7 +22,7 @@ Created by FontForge 20170924 at Wed Oct 31 11:57:02 2018
     bbox="-0.520259 -65 516 448.5"
     underline-thickness="25.6"
     underline-position="-51.2"
-    unicode-range="U+0020-F15C"
+    unicode-range="U+0020-F15D"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -93,10 +93,13 @@ M126 260v0c-17 0 -28 12 -29 27c0 16 11 27 29 27s29 -12 29 -27s-11 -27 -29 -27zM1
     <glyph glyph-name="download" unicode="&#xf107;" 
 d="M256 -44h-226c-16 0 -30 13 -30 29v148c0 16 14 29 30 29s29 -13 29 -29v-118h394v118c0 16 13 29 29 29s30 -13 30 -29v-148c0 -16 -14 -29 -30 -29h-226v0v0zM277 123c-5 -6 -13 -10 -22 -10s-17 4 -22 10l-88 98c-5 5 -8 12 -8 20c0 16 14 30 30 30c9 0 17 -4 22 -10
 v0l37 -41v179c0 16 13 29 29 29s30 -13 30 -29v-179l37 41v0c5 6 13 10 22 10c16 0 30 -14 30 -30c0 -8 -3 -15 -8 -20z" />
-    <glyph glyph-name="plus-circle-o" unicode="&#xf15c;" 
-d="M256 448v0c141 0 256 -115 256 -256v0c0 -141 -115 -256 -256 -256s-256 115 -256 256s115 256 256 256zM256 430c-212 0 -318 -256 -168 -406s406 -44 406 168c0 131 -107 238 -238 238zM222 354h68v-128h128v-68h-128v-128h-68v128h-128v68h128v128z" />
+    <glyph glyph-name="netgalley-circle" unicode="&#xf15d;" 
+d="M256 448c111 0 222 -88 248 -195l-117 -51l22 -23c-160 -97 -297 -152 -362 -134c-11 16 -25 44 -32 62c24 54 131 119 151 97c5 46 -64 23 -165 -25c0 4 -1 9 -1 13c0 25 7 65 16 89c36 13 75 24 115 31c60 11 108 3 121 -30c22 -55 -121 -154 -146 -127
+c-12 -103 410 79 242 218c-18 15 -47 22 -84 22c-10 0 -96 -2 -216 -54c42 59 136 107 208 107zM512 196v-4v0c0 -141 -115 -256 -256 -256c-29 0 -74 9 -101 21c87 45 183 110 279 193l28 -24z" />
     <glyph glyph-name="flightdeck" unicode="&#xf100;" horiz-adv-x="476" 
 d="M157 60c-1 -2 -4 -2 -4 0c-29 131 -98 203 -153 228c-1 0 1 2 2 2c69 -1 136 -68 155 -108h1c132 234 279 262 315 266c2 0 3 -2 2 -2c-158 -52 -275 -268 -318 -386z" />
+    <glyph glyph-name="plus-circle-o" unicode="&#xf15c;" 
+d="M256 448v0c141 0 256 -115 256 -256v0c0 -141 -115 -256 -256 -256s-256 115 -256 256s115 256 256 256zM256 430c-212 0 -318 -256 -168 -406s406 -44 406 168c0 131 -107 238 -238 238zM222 354h68v-128h128v-68h-128v-128h-68v128h-128v68h128v128z" />
     <glyph glyph-name="facebook-square-o" unicode="&#xf13c;" horiz-adv-x="439" 
 d="M337 401h-228c-54 0 -99 -43 -99 -95v-228c0 -52 45 -95 99 -96h228c52 0 92 40 92 95v229c0 55 -40 95 -92 95zM337 411v0c58 0 102 -46 102 -105v-228c0 -59 -44 -105 -102 -105h-228c-59 0 -109 46 -109 104v229c0 59 50 105 109 105h228zM249 22h-69v160h-30v50h30
 v33c0 43 20 67 71 67h38v-50h-22c-20 0 -21 -9 -21 -22v-28h48l-5 -50h-40v-160z" />
