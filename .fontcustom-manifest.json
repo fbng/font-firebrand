@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "5102c55314bfa259e0b18b909ee0a96c1a7f5d2619f039e4531e35eb3fdc8952",
-    "current": "5102c55314bfa259e0b18b909ee0a96c1a7f5d2619f039e4531e35eb3fdc8952"
+    "previous": "9e86c1aa6f9d991863391932b6663147772093bedf36bf034c859b64d3fe87e6",
+    "current": "9e86c1aa6f9d991863391932b6663147772093bedf36bf034c859b64d3fe87e6"
   },
   "fonts": [
     "./fonts/font-firebrand.ttf",
@@ -210,6 +210,14 @@
     "netgalley-full": {
       "codepoint": 61742,
       "source": "./vectors/netgalley-full.svg"
+    },
+    "nut-down": {
+      "codepoint": 61790,
+      "source": "./vectors/nut-down.svg"
+    },
+    "nut-up": {
+      "codepoint": 61791,
+      "source": "./vectors/nut-up.svg"
     },
     "open-book": {
       "codepoint": 61734,
