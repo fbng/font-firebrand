@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "3db4f43f2592206b1b6ee95ad760205adde089f68e54ce4d7e6027aea3ee95a1",
-    "current": "3db4f43f2592206b1b6ee95ad760205adde089f68e54ce4d7e6027aea3ee95a1"
+    "previous": "4f48eeeae25fbdcc65920f0b58c6ffd209c4a268a79f2b3e57756328358a7d99",
+    "current": "4f48eeeae25fbdcc65920f0b58c6ffd209c4a268a79f2b3e57756328358a7d99"
   },
   "fonts": [
     "./fonts/font-firebrand.ttf",
@@ -175,9 +175,9 @@
       "codepoint": 61783,
       "source": "./vectors/info-circle-o.svg"
     },
-    "insights_logo": {
-      "codepoint": 61792,
-      "source": "./vectors/insights_logo.svg"
+    "insights-logo": {
+      "codepoint": 61793,
+      "source": "./vectors/insights-logo.svg"
     },
     "kobo": {
       "codepoint": 61749,
