@@ -30,6 +30,7 @@
 .fb-icon-arrow-back-left:before,
 .fb-icon-arrow-back-right:before,
 .fb-icon-arrow-back-up:before,
+.fb-icon-audio_excerpt:before,
 .fb-icon-barnesandnoble:before,
 .fb-icon-bn:before,
 .fb-icon-bolt-book:before,
@@ -46,6 +47,7 @@
 .fb-icon-document-circle:before,
 .fb-icon-download:before,
 .fb-icon-email:before,
+.fb-icon-excerpt:before,
 .fb-icon-facebook:before,
 .fb-icon-facebook-circle:before,
 .fb-icon-facebook-square:before,
@@ -132,6 +134,7 @@
 .fb-icon-arrow-back-left:before { content: "\f113"; }
 .fb-icon-arrow-back-right:before { content: "\f114"; }
 .fb-icon-arrow-back-up:before { content: "\f115"; }
+.fb-icon-audio_excerpt:before { content: "\f162"; }
 .fb-icon-barnesandnoble:before { content: "\f136"; }
 .fb-icon-bn:before { content: "\f12b"; }
 .fb-icon-bolt-book:before { content: "\f125"; }
@@ -148,6 +151,7 @@
 .fb-icon-document-circle:before { content: "\f150"; }
 .fb-icon-download:before { content: "\f107"; }
 .fb-icon-email:before { content: "\f108"; }
+.fb-icon-excerpt:before { content: "\f163"; }
 .fb-icon-facebook:before { content: "\f109"; }
 .fb-icon-facebook-circle:before { content: "\f10a"; }
 .fb-icon-facebook-square:before { content: "\f13b"; }
