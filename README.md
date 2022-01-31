@@ -4,14 +4,20 @@ Font Firebrand is a set of vector icons similar to the Font Awesome icon set.  T
 
 ## Requirements
 
-See <https://github.com/FontCustom/fontcustom#installation>.
+Use a Docker image in a Unix environment (preferred): <https://hub.docker.com/r/telor/fontcustom-worker>.
+
+Or install the dependencies locally: <https://github.com/FontCustom/fontcustom#installation>.
 
 ## Project Setup
 
 To add an icon to the set:
 
 1. Save the SVG in the vectors folder.
-2. From the command line in the Font-Firebrand project root, run: `fontcustom compile`
+2. From the command line in the Font-Firebrand project root, using docker, run:
+
+`docker run -it -v $(pwd):/app/project telor/fontcustom-worker fontcustom compile`
+
+or for a local installation run: `fontcustom compile`
 
 ## Testing
 
