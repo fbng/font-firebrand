@@ -97,6 +97,8 @@
 .fb-icon-thermometer-circle:before,
 .fb-icon-thumbsdown:before,
 .fb-icon-thumbsup:before,
+.fb-icon-tiktok-square:before,
+.fb-icon-tiktok-square-o:before,
 .fb-icon-tumblr:before,
 .fb-icon-tumblr-circle:before,
 .fb-icon-twitter:before,
@@ -201,6 +203,8 @@
 .fb-icon-thermometer-circle:before { content: "\f153"; }
 .fb-icon-thumbsdown:before { content: "\f101"; }
 .fb-icon-thumbsup:before { content: "\f102"; }
+.fb-icon-tiktok-square:before { content: "\f16b"; }
+.fb-icon-tiktok-square-o:before { content: "\f16c"; }
 .fb-icon-tumblr:before { content: "\f10d"; }
 .fb-icon-tumblr-circle:before { content: "\f10e"; }
 .fb-icon-twitter:before { content: "\f10f"; }

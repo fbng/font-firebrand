@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "3fde43596549ecc0414157eb231b7f2c6ccea8ce5b28c31ca640b0d9f937ea8c",
-    "current": "3fde43596549ecc0414157eb231b7f2c6ccea8ce5b28c31ca640b0d9f937ea8c"
+    "previous": "2f5ad931e5975bc81bdb3b9e2d2c444093d04068798378cf51209575f3a85445",
+    "current": "2f5ad931e5975bc81bdb3b9e2d2c444093d04068798378cf51209575f3a85445"
   },
   "fonts": [
     "./fonts/font-firebrand.ttf",
@@ -302,6 +302,14 @@
     "thumbsup": {
       "codepoint": 61698,
       "source": "./vectors/thumbsup.svg"
+    },
+    "tiktok-square": {
+      "codepoint": 61803,
+      "source": "./vectors/tiktok-square.svg"
+    },
+    "tiktok-square-o": {
+      "codepoint": 61804,
+      "source": "./vectors/tiktok-square-o.svg"
     },
     "tumblr": {
       "codepoint": 61709,
