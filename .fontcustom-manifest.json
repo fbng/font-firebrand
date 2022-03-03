@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "2f5ad931e5975bc81bdb3b9e2d2c444093d04068798378cf51209575f3a85445",
-    "current": "2f5ad931e5975bc81bdb3b9e2d2c444093d04068798378cf51209575f3a85445"
+    "previous": "a1f6841e86bea89b82f6d55465371706c6d971ae40616fcc1a54d469b625adee",
+    "current": "a1f6841e86bea89b82f6d55465371706c6d971ae40616fcc1a54d469b625adee"
   },
   "fonts": [
     "./fonts/font-firebrand.ttf",
@@ -408,12 +408,14 @@
     "templates": [
       "preview",
       "css",
-      "../templates/font-firebrand.less"
+      "../templates/font-firebrand.less",
+      "../templates/font-firebrand.scss"
     ]
   },
   "templates": [
     "./fonts/font-firebrand-preview.html",
     "./src/font-firebrand.css",
-    "./src/font-firebrand.less"
+    "./src/font-firebrand.less",
+    "./src/font-firebrand.scss"
   ]
 }

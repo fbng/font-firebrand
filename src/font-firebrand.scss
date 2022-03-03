@@ -1,6 +1,7 @@
 //
 // Icon Font: font-firebrand
 //
+
 @font-face {
   font-family: "font-firebrand";
   src: url("#{$font-firebrand-path}/font-firebrand.eot");
@@ -29,6 +30,7 @@
 .fb-icon-arrow-back-left:before,
 .fb-icon-arrow-back-right:before,
 .fb-icon-arrow-back-up:before,
+.fb-icon-audio_excerpt:before,
 .fb-icon-barnesandnoble:before,
 .fb-icon-bn:before,
 .fb-icon-bolt-book:before,
@@ -45,6 +47,7 @@
 .fb-icon-document-circle:before,
 .fb-icon-download:before,
 .fb-icon-email:before,
+.fb-icon-excerpt:before,
 .fb-icon-facebook:before,
 .fb-icon-facebook-circle:before,
 .fb-icon-facebook-square:before,
@@ -94,6 +97,8 @@
 .fb-icon-thermometer-circle:before,
 .fb-icon-thumbsdown:before,
 .fb-icon-thumbsup:before,
+.fb-icon-tiktok-square:before,
+.fb-icon-tiktok-square-o:before,
 .fb-icon-tumblr:before,
 .fb-icon-tumblr-circle:before,
 .fb-icon-twitter:before,
@@ -131,6 +136,7 @@
 .fb-icon-arrow-back-left:before { content: "\f113"; }
 .fb-icon-arrow-back-right:before { content: "\f114"; }
 .fb-icon-arrow-back-up:before { content: "\f115"; }
+.fb-icon-audio_excerpt:before { content: "\f162"; }
 .fb-icon-barnesandnoble:before { content: "\f136"; }
 .fb-icon-bn:before { content: "\f12b"; }
 .fb-icon-bolt-book:before { content: "\f125"; }
@@ -147,6 +153,7 @@
 .fb-icon-document-circle:before { content: "\f150"; }
 .fb-icon-download:before { content: "\f107"; }
 .fb-icon-email:before { content: "\f108"; }
+.fb-icon-excerpt:before { content: "\f163"; }
 .fb-icon-facebook:before { content: "\f109"; }
 .fb-icon-facebook-circle:before { content: "\f10a"; }
 .fb-icon-facebook-square:before { content: "\f13b"; }
@@ -196,6 +203,8 @@
 .fb-icon-thermometer-circle:before { content: "\f153"; }
 .fb-icon-thumbsdown:before { content: "\f101"; }
 .fb-icon-thumbsup:before { content: "\f102"; }
+.fb-icon-tiktok-square:before { content: "\f16b"; }
+.fb-icon-tiktok-square-o:before { content: "\f16c"; }
 .fb-icon-tumblr:before { content: "\f10d"; }
 .fb-icon-tumblr-circle:before { content: "\f10e"; }
 .fb-icon-twitter:before { content: "\f10f"; }
@@ -213,3 +222,96 @@
 .fb-icon-wave-circle-o:before { content: "\f13a"; }
 .fb-icon-wishbone:before { content: "\f103"; }
 .fb-icon-wishbone-circle:before { content: "\f11c"; }
+
+$font-font-firebrand-amazon: "\f12a";
+$font-font-firebrand-approve: "\f116";
+$font-font-firebrand-arrow-back-down: "\f112";
+$font-font-firebrand-arrow-back-left: "\f113";
+$font-font-firebrand-arrow-back-right: "\f114";
+$font-font-firebrand-arrow-back-up: "\f115";
+$font-font-firebrand-audio_excerpt: "\f162";
+$font-font-firebrand-barnesandnoble: "\f136";
+$font-font-firebrand-bn: "\f12b";
+$font-font-firebrand-bolt-book: "\f125";
+$font-font-firebrand-camera: "\f130";
+$font-font-firebrand-cat-down: "\f148";
+$font-font-firebrand-cat-up: "\f149";
+$font-font-firebrand-check-circle: "\f159";
+$font-font-firebrand-check-circle-o: "\f15a";
+$font-font-firebrand-clock: "\f106";
+$font-font-firebrand-decline: "\f117";
+$font-font-firebrand-digital: "\f14e";
+$font-font-firebrand-digital-circle: "\f14f";
+$font-font-firebrand-document: "\f14b";
+$font-font-firebrand-document-circle: "\f150";
+$font-font-firebrand-download: "\f107";
+$font-font-firebrand-email: "\f108";
+$font-font-firebrand-excerpt: "\f163";
+$font-font-firebrand-facebook: "\f109";
+$font-font-firebrand-facebook-circle: "\f10a";
+$font-font-firebrand-facebook-square: "\f13b";
+$font-font-firebrand-facebook-square-o: "\f13c";
+$font-font-firebrand-filter: "\f127";
+$font-font-firebrand-fingerprint: "\f11e";
+$font-font-firebrand-fingerprint-book: "\f11f";
+$font-font-firebrand-fingerprint-download-circle: "\f120";
+$font-font-firebrand-flightdeck: "\f100";
+$font-font-firebrand-gear: "\f128";
+$font-font-firebrand-goodreads: "\f134";
+$font-font-firebrand-goodreads-square: "\f13d";
+$font-font-firebrand-goodreads-square-o: "\f13e";
+$font-font-firebrand-graph: "\f14c";
+$font-font-firebrand-graph-circle: "\f151";
+$font-font-firebrand-indie: "\f12c";
+$font-font-firebrand-info: "\f154";
+$font-font-firebrand-info-circle: "\f156";
+$font-font-firebrand-info-circle-o: "\f157";
+$font-font-firebrand-insights-logo: "\f161";
+$font-font-firebrand-kobo: "\f135";
+$font-font-firebrand-linkedin: "\f13f";
+$font-font-firebrand-linkedin-square: "\f140";
+$font-font-firebrand-linkedin-square-o: "\f141";
+$font-font-firebrand-map-pin: "\f12d";
+$font-font-firebrand-mute: "\f133";
+$font-font-firebrand-netgalley: "\f118";
+$font-font-firebrand-netgalley-circle: "\f15d";
+$font-font-firebrand-netgalley-full: "\f12e";
+$font-font-firebrand-nut-down: "\f15e";
+$font-font-firebrand-nut-up: "\f15f";
+$font-font-firebrand-open-book: "\f126";
+$font-font-firebrand-pencil: "\f131";
+$font-font-firebrand-pencil-square-o: "\f105";
+$font-font-firebrand-pencil-vertical: "\f132";
+$font-font-firebrand-pinterest: "\f10b";
+$font-font-firebrand-pinterest-circle: "\f10c";
+$font-font-firebrand-plus-circle: "\f15b";
+$font-font-firebrand-plus-circle-o: "\f15c";
+$font-font-firebrand-protected: "\f121";
+$font-font-firebrand-protected-download-circle: "\f122";
+$font-font-firebrand-stamp: "\f124";
+$font-font-firebrand-stopwatch: "\f158";
+$font-font-firebrand-tablet: "\f11a";
+$font-font-firebrand-tachometer: "\f129";
+$font-font-firebrand-thermometer: "\f152";
+$font-font-firebrand-thermometer-circle: "\f153";
+$font-font-firebrand-thumbsdown: "\f101";
+$font-font-firebrand-thumbsup: "\f102";
+$font-font-firebrand-tiktok-square: "\f16b";
+$font-font-firebrand-tiktok-square-o: "\f16c";
+$font-font-firebrand-tumblr: "\f10d";
+$font-font-firebrand-tumblr-circle: "\f10e";
+$font-font-firebrand-twitter: "\f10f";
+$font-font-firebrand-twitter-alt: "\f142";
+$font-font-firebrand-twitter-alt-circle: "\f143";
+$font-font-firebrand-twitter-square: "\f144";
+$font-font-firebrand-twitter-square-o: "\f145";
+$font-font-firebrand-user-admin: "\f123";
+$font-font-firebrand-user-plus: "\f11b";
+$font-font-firebrand-user-profile: "\f12f";
+$font-font-firebrand-verified: "\f137";
+$font-font-firebrand-waterstones: "\f146";
+$font-font-firebrand-waterstones-caption: "\f147";
+$font-font-firebrand-wave-circle: "\f139";
+$font-font-firebrand-wave-circle-o: "\f13a";
+$font-font-firebrand-wishbone: "\f103";
+$font-font-firebrand-wishbone-circle: "\f11c";

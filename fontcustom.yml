@@ -46,3 +46,4 @@ templates:
  - preview
  - css
  - ../templates/font-firebrand.less
+ - ../templates/font-firebrand.scss
