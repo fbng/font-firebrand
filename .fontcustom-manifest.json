@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "a1f6841e86bea89b82f6d55465371706c6d971ae40616fcc1a54d469b625adee",
-    "current": "a1f6841e86bea89b82f6d55465371706c6d971ae40616fcc1a54d469b625adee"
+    "previous": "a7b77989dd98014b884fb5cc93aa706f4a10d0398363296f017ede8ec4216f4b",
+    "current": "a7b77989dd98014b884fb5cc93aa706f4a10d0398363296f017ede8ec4216f4b"
   },
   "fonts": [
     "./fonts/font-firebrand.ttf",
@@ -122,6 +122,14 @@
     "facebook-square-o": {
       "codepoint": 61756,
       "source": "./vectors/facebook-square-o.svg"
+    },
+    "file-download": {
+      "codepoint": 61805,
+      "source": "./vectors/file-download.svg"
+    },
+    "file-downloaded": {
+      "codepoint": 61806,
+      "source": "./vectors/file-downloaded.svg"
     },
     "filter": {
       "codepoint": 61735,

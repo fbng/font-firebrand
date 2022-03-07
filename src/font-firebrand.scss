@@ -52,6 +52,8 @@
 .fb-icon-facebook-circle:before,
 .fb-icon-facebook-square:before,
 .fb-icon-facebook-square-o:before,
+.fb-icon-file-download:before,
+.fb-icon-file-downloaded:before,
 .fb-icon-filter:before,
 .fb-icon-fingerprint:before,
 .fb-icon-fingerprint-book:before,
@@ -158,6 +160,8 @@
 .fb-icon-facebook-circle:before { content: "\f10a"; }
 .fb-icon-facebook-square:before { content: "\f13b"; }
 .fb-icon-facebook-square-o:before { content: "\f13c"; }
+.fb-icon-file-download:before { content: "\f16d"; }
+.fb-icon-file-downloaded:before { content: "\f16e"; }
 .fb-icon-filter:before { content: "\f127"; }
 .fb-icon-fingerprint:before { content: "\f11e"; }
 .fb-icon-fingerprint-book:before { content: "\f11f"; }
@@ -251,6 +255,8 @@ $font-font-firebrand-facebook: "\f109";
 $font-font-firebrand-facebook-circle: "\f10a";
 $font-font-firebrand-facebook-square: "\f13b";
 $font-font-firebrand-facebook-square-o: "\f13c";
+$font-font-firebrand-file-download: "\f16d";
+$font-font-firebrand-file-downloaded: "\f16e";
 $font-font-firebrand-filter: "\f127";
 $font-font-firebrand-fingerprint: "\f11e";
 $font-font-firebrand-fingerprint-book: "\f11f";
