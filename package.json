@@ -1,6 +1,6 @@
 {
   "name": "font-firebrand",
-  "version": "3.8.0",
+  "version": "4.5.1",
   "description": "Font Firebrand is a set of vector icons for use in Firebrand applications.",
   "style": "src/font-firebrand.css",
   "dependencies": {
